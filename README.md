@@ -1,13 +1,13 @@
 # Presentation Guidelines
 
-Great Presentations Raise Your Profile!
+**Great Presentations Raise Your Profile!**
 
 Do you want to give great and rewarding presentations? Or just a reminder 
 about what makes a great presentation? Then this one page guidance is for you:
 
 http://ilustat.com/shared/Presentation-Guidelines.pdf
 
-Share it with presenters before your meetings, conferences, workshops, events, ...
+**Share it with presenters before your meetings, conferences, workshops, events, ...**
 
 
 ## Nervous?

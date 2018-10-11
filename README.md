@@ -5,7 +5,7 @@
 Do you want to give great and rewarding presentations? Or just a reminder 
 about what makes a great presentation? Then this one page guidance is for you:
 
-* [Presentation Guidelines - English Version](http://ilustat.com/shared/Presentation-Guidelines-EN.pdf)
+* [Presentation Guidelines - English Version (PDF)](http://ilustat.com/shared/Presentation-Guidelines-EN.pdf)
 
 **Share it with presenters before your meetings, conferences, workshops, events, ...**
 

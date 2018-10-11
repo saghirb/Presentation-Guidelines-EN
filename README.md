@@ -7,7 +7,7 @@ about what makes a great presentation? Then this one page guidance is for you:
 
 * [Presentation Guidelines - English Version (PDF)](http://ilustat.com/shared/Presentation-Guidelines-EN.pdf)
 
-**Share it with presenters before your meetings, conferences, workshops, events, ...**
+***Organing an event, meeting, conference or workshop?*** Share the guidance with your speakers before hand.
 
 ![](docs/Presentation-Guidelines-EN.png)
 

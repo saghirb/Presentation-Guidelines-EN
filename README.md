@@ -9,6 +9,7 @@ about what makes a great presentation? Then this one page guidance is for you:
 
 **Share it with presenters before your meetings, conferences, workshops, events, ...**
 
+![](docs/Presentation-Guidelines-EN.png)
 
 ## Nervous?
 

@@ -1,0 +1,185 @@
+---
+title: "Presentation Guidelines"
+
+# Use letters for affiliations
+author:
+  - name: Saghir Bashir
+#     affiliation: a
+# address:
+#   - code: a
+#     address: ilustat \url{www.ilustat.com}
+
+# For footer text  TODO(fold into template, allow free form two-authors)
+# I will use it to place the copyright notice (Creative Comments Share Alike)
+lead_author_surname: "[CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](http://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
+
+# Place DOI URL or CRAN Package URL here
+doi: "Learn more at http://ilustat.com/resources/ $\\bullet$ [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](http://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
+
+# Abstract
+abstract: |
+  Great presentations raise your profile. Delivering engaging and rewarding 
+  presentations is all about preparation, preparation and preparation. Read on 
+  to learn how.
+
+# Optional: Acknowledgements
+# acknowledgements: |
+#  [Names] for reviewing the draft versions of this document.
+  
+# Optional: One or more keywords
+keywords:
+  - Presentation Skills
+  - Preparation
+  - Preparation
+  - Preparation
+
+# Paper size for document, values of letterpaper and a4paper
+papersize: a4
+
+# Font size of the document, values of 9pt (default), 10pt, 11pt and 12pt
+fontsize: 9pt
+
+# Optional: Force one-column layout, default is two-column
+#one_column: true
+
+# Optional: Enables lineno mode, but only if one_column mode is also true
+#lineno: true
+
+# Optional: Enable one-sided layout, default is two-sided
+one_sided: true
+
+# Optional: Enable section numbering, default is unnumbered
+numbersections: true
+
+# Optional: Specify the depth of section number, default is 5
+secnumdepth: 3
+
+# Optional: Skip inserting final break between acknowledgements, default is false
+skip_final_break: true
+
+# Optional: Bibliography 
+# bibliography: pinp
+
+# Optional: Enable a 'Draft' watermark on the document
+watermark: FALSE
+
+# Customize footer, eg by referencing the vignette
+footer_contents: "Presentation Guidelines"
+
+# Produce a pinp document
+output: 
+  pinp::pinp:
+    fig_caption: yes
+    collapse: true
+    keep_tex: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE) #, knitr.table.format = 'latex')
+# library(tidyverse)
+# library(knitr)
+# library(kableExtra)
+options(width=45)
+knitr::opts_chunk$set(fig.pos = 'H')
+```
+
+## Prepare, Practice & Deliver
+
+- Prepare great content with aesthetic appeal.
+- Make the content flow like an **interesting** story. It will be easy for you to explain and easier for the audience to follow.
+- Read, revise, cut, cut and cut.
+- Film yourself practising. Watch it (yes, it's hard). Keep what is good and improve the rest. 
+Repeat until it's all good.
+- Captivate your audience by delivering with contagious passion and heartfelt motivation.
+- Being nervous is normal as you really want to give a great presentation. Over-confidence
+could be worse.
+
+## Audience Courtesy
+
+- Understand who your audience will be.
+- Prepare your presentation to finish on time or a bit before.
+- Select visual aids that have an impact and effect. 
+- Remember your audience can read so you don't need to. 
+- Speak clearly and loud enough for those at the back.
+- Make it engaging and interesting.
+
+## Slides
+
+- Keep the number of slides to what can be digested by your audience (e.g. a slide
+per minute is usually way too much).
+- Use white spacing generously so the contents can be seen by the audience at the back.
+- Design your slides to communicate your messages and not to artificially impress
+or show off.
+- Mix the contents of your slides between text, images, tables, graphs and perhaps a mix of these.
+
+## Design & Style
+
+- Use a consistent theme (i.e. layout, fonts and colours).
+- Inconsistency distracts the audience from the contents.
+- **Pro hint:** work with a graphic designer.
+
+## Colours
+
+- Use a contrasting colour scheme to make information stand out and 
+distinguishable for those at the back.
+- Make sure the background does not clash with the colour scheme or 
+is not an annoying distraction.
+- Red and green colour blindness is common so use friendlier alternatives
+
+## Fonts & Font Sizes
+
+- Use sans serif fonts (e.g. Arial) as they are easier to read.
+- Use a minimum font size of 24 points.
+- You could use 44/40 points for headings, 36/32 points for main bullet points and 28/24 points for sub-bullet points.
+- The answer to *“Can you read this at the back?”* is ***"No!"***. Use the right fonts and font sizes.
+- These rules also apply to algebra, graphs and tables.
+
+## CAPITALS and **Italics**
+
+- Only use CAPITAL letters for EMPHASIS or acronyms as THEY ARE HARDER TO READ.
+- Use *Italics* in “*quotes*” or to *highlight* (note that they can be hard to differentiate from normal text).
+- Use capitals and italics consistently.
+
+
+## Bullet Points
+
+- Bullet points are easier to read than dense text.
+- Keep bullet points to one line where possible.
+- Minimise the number of bullet points per slide. 
+- Aim at a maximum of 8 lines of bullet point text in a slide.
+
+## Algebra
+
+- Avoid algebra and formulae if you can. They can be hard to follow and explain.
+- Use words to explain the main concepts (e.g. *'Haemoglobin was modelled as a function of age and treatment'*).
+- Alternatively use words and Greek letters together instead of *X*s and *Y*s. For example, $$Haemoglobin = \alpha + \beta.age + \gamma.treatment$$
+
+## Graphs
+
+- Do NOT use three-dimensional graphs (i.e. bar/pie charts)!
+- Design your graphs carefully (without distortions) to communicate your message
+quickly and clearly.
+- Include zero on the vertical axis. If this is not feasible consider using a different axis (e.g. log scale axis).
+- Keep colour coding consistent across graphs.
+- Use high quality graphs with lines thick enough to be seen from the back.
+- Use white spacing to enhance the visual appeal.
+- Ask yourself whether a table would be better?
+
+## Tables
+
+- Plan and structure tables carefully to communicate your message quickly and clearly.
+- Keep it simple.
+- Be consistent with format and layout (e.g. do not invert rows and columns).
+- Make numbers friendlier to read by rounding consistently (e.g. 8,600 for 8,579).
+- Only use horizontal lines and white spacing to enhance the visual appeal.
+- Ask yourself whether a graph would be better?
+
+## Images
+
+- Select images that help you tell your story.
+- Select high resolution images.
+- Make sure you have the right to use them and credit the source.
+
+## Well done
+
+- Now that you're prepared go and give it your best!

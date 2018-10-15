@@ -75,10 +75,7 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, eval = TRUE) #, knitr.table.format = 'latex')
-# library(tidyverse)
-# library(knitr)
-# library(kableExtra)
+knitr::opts_chunk$set(echo = TRUE, eval = TRUE)
 options(width=45)
 knitr::opts_chunk$set(fig.pos = 'H')
 ```
@@ -124,7 +121,8 @@ or show off.
 distinguishable for those at the back.
 - Make sure the background does not clash with the colour scheme or 
 is not an annoying distraction.
-- Red and green colour blindness is common so use friendlier alternatives
+- Red and green colour blindness is common so use friendlier alternatives.
+- It is hard to see light (e.g. yellow) and fluorescent colours.
 
 ## Fonts & Font Sizes
 
@@ -183,3 +181,5 @@ quickly and clearly.
 ## Well done
 
 - Now that you're prepared go and give it your best!
+
+$~$

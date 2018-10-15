@@ -17,7 +17,8 @@ Contributors
 - Ziza Serra
 - Ana Macedo
 - Andreia Carlos [@agrou](https://github.com/agrou)
-
+- Raquel H. Ribeiro [@raquelhr](https://github.com/raquelhr)
+- Bettina Kehr
 
 ## List of Contributors
 - ...

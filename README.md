@@ -9,7 +9,7 @@ about what makes a great presentation? Then this one page guidance is for you:
 
 ***Organing an event, meeting, conference or workshop?*** Share the guidance with your speakers before hand.
 
-![](docs/Presentation-Guidelines-EN-half.png)
+[![](docs/Presentation-Guidelines-EN-half.png)](https://github.com/saghirb/Presentation-Guidelines-EN/blob/master/Presentation-Guidelines-EN.pdf)
 
 ## Nervous?
 

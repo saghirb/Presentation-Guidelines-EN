@@ -11,10 +11,10 @@ author:
 
 # For footer text  TODO(fold into template, allow free form two-authors)
 # I will use it to place the copyright notice (Creative Comments Share Alike)
-lead_author_surname: "[CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](http://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
+lead_author_surname: "[CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](https://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
 
 # Place DOI URL or CRAN Package URL here
-doi: "Learn more at http://ilustat.com/resources/ $\\bullet$ [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](http://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
+doi: "Learn more at https://ilustat.com/resources/ $\\bullet$ [CC BY SA](https://creativecommons.org/licenses/by-sa/4.0/) [ilustat](https://ilustat.com/) $\\bullet$ [info@ilustat.com](mailto:info@ilustat.com)"
 
 # Abstract
 abstract: |

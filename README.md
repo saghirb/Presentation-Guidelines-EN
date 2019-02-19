@@ -5,7 +5,7 @@
 Do you want to give great and rewarding presentations? Or just a reminder 
 about what makes a great presentation? Then this one page guidance is for you:
 
-* [Presentation Guidelines - English Version (PDF)](http://ilustat.com/shared/Presentation-Guidelines-EN.pdf)
+* [Presentation Guidelines - English Version (PDF)](https://ilustat.com/shared/Presentation-Guidelines-EN.pdf)
 
 ***Organing an event, meeting, conference or workshop?*** Share the guidance with your speakers before hand.
 
@@ -15,7 +15,7 @@ about what makes a great presentation? Then this one page guidance is for you:
 
 Does giving a presentation make you nervous? This following post will encourage to make friends with your nerves to give great presentations whilst raising your profile.
 
-* [Great Presentations Raise Your Profile](http://www.ilustat.com/post/great-presentations-raise-your-profile/)
+* [Great Presentations Raise Your Profile](https://www.ilustat.com/post/great-presentations-raise-your-profile/)
 
 
 ## Contributors
